@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Uploaded datasets
+uploads/
+*.csv
+*.xlsx
+*.xls
+
+# Generated reports
+reports/
+
+# Test/cache files
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
